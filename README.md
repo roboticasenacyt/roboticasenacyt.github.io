@@ -1,5 +1,5 @@
-# roboticasenacyt.github.io
-Web de recomendaciones y más
+
+#Web de recomendaciones y más
 
 
 **¿Cómo Escoger las Características de tu Robot para OnStage?**
@@ -45,7 +45,7 @@ Aquí hay algunas formas geniales de mostrar lo que tus robots pueden hacer:
 - Reconocimiento de gestos
 - Pinza
 
-**Cómo Elegir tus Características**
+**¿Cómo Elegir tus Características?**
 
 Al decidir qué características mostrar, piensa en:
 
@@ -57,7 +57,7 @@ Al decidir qué características mostrar, piensa en:
 
 Destácalas mostrando y explicándolas en tu video de demostración técnica, póster y entrevista. Esto hace que tu actuación se destaque y ayuda al público y a los jueces a buscar tus características en acción.
 
-**Qué Evitar**
+**¿Qué Evitar?**
 
 No te enfoques en cosas como:
 
@@ -71,10 +71,7 @@ No te enfoques en cosas como:
 
 Seleccionar las características adecuadas para tus robots en una actuación de OnStage implica entender sus capacidades, transformarlas en características que llamen la atención de las personas y enfocarse en lo que puedes usar para demostrar mejor tu actuación robótica. ¡Sigue esta guía para asegurarte de que tus robots se roben el espectáculo!
 
-**¿Más preguntas?**
-
-Si tienes más preguntas o quieres discutir la definición de una característica específica que planeas usar en tu actuación, no dudes en ponerte en contacto con el comité de OnStage a través del Foro de RoboCupJunior.
 
 ---
 
-Espero que esto te sea útil. ¿Hay algo más en lo que pueda ayudarte?
+Traducido del repositorio oficial de Robocup Junior Onstage https://robocup-junior.github.io/onstage/resources/teams/how_to_features.html
