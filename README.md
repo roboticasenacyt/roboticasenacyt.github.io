@@ -1,5 +1,4 @@
-
-#Web de recomendaciones y más
+**Web de recomendaciones y más**
 
 
 **¿Cómo Escoger las Características de tu Robot para OnStage?**
