@@ -54,6 +54,7 @@ Al decidir qué características mostrar, piensa en:
 - Características que los jueces puedan observar fácilmente: Elige características que sean claramente visibles durante la actuación; si los jueces no pueden ver tu característica en acción, no puedes ser puntuado.
 - Tu Mejor Trabajo: Elige características de las que estés más orgulloso.
 - Lo que quieres destacar: Elige características que quieras mostrar en tu actuación.
+	[![Mira este video de sugerenccias](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/watch?v=ofRslDP51mY)
 
 **Presentando tus Características**
 
