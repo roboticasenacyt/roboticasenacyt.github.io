@@ -1,6 +1,7 @@
 ![Header](header robotic.png)
 
 
+
 <div style="display: flex;">
   <div style="width: 25%; padding-right: 20px;">
     ### Navigation  
@@ -19,6 +20,7 @@
     Reach out via email or GitHub.
   </div>
 </div>
+
 
 
 
