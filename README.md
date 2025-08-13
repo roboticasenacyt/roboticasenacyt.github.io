@@ -2,24 +2,20 @@
 
 
 
-<div style="display: flex;">
-  <div style="width: 25%; padding-right: 20px;">
-    ### Navigation  
-    - Home  
-    - About  
-    - Contact  
-  </div>
-  <div style="width: 75%;">
-    ## Home  
-    Welcome to the homepage.
-
-    ## About  
-    This section is about the project.
-
-    ## Contact  
-    Reach out via email or GitHub.
-  </div>
+<!-- Sidebar de navegación -->
+<div style="position: fixed; left: 0; top: 0; width: 220px; height: 100%; background: #f4f4f4; padding: 20px; border-right: 1px solid #ddd;">
+  <h3>Menú</h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li><a href="#home">Inicio</a></li>
+    <li><a href="#about">Acerca de</a></li>
+    <li><a href="#contact">Contacto</a></li>
+    <li><a href="#caracteristicas">Características</a></li>
+    <li><a href="./sugerencias.md">Sugerencias</a></li>
+  </ul>
 </div>
+
+<div style="margin-left: 240px;">
+<!-- El resto del contenido principal va aquí -->
 
 
 
