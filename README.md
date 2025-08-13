@@ -75,7 +75,7 @@ No te enfoques en cosas como:
 
 Seleccionar las características adecuadas para tus robots en una actuación de OnStage implica entender sus capacidades, transformarlas en características que llamen la atención de las personas y enfocarse en lo que puedes usar para demostrar mejor tu actuación robótica. ¡Sigue esta guía para asegurarte de que tus robots se roben el espectáculo!
 
-[Sugerencias para Poster](C:\Users\lseptimo\Documents\GitHub\roboticasenacyt.github.io\sugerencias)
+[Sugerencias para Poster]("C:\Users\lseptimo\Documents\GitHub\roboticasenacyt.github.io\sugerencias.md")
 
 
 
