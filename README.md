@@ -14,9 +14,6 @@
   </ul>
 </div>
 
-<div style="margin-left: 240px;">
-<!-- El resto del contenido principal va aquí -->
-
 
 
 
