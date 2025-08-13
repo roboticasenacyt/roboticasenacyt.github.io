@@ -7,7 +7,7 @@
   <h3>Menú</h3>
   <ul style="list-style: none; padding-left: 0;">
     <li><a href="#contact">Contacto</a></li>
-    <li>[Sugerencias para Poster](./sugerencias.md)
+    <li><a href="./sugerencias.md">Sugerencias</a></li>
   </ul>
 </div>
 
