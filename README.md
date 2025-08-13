@@ -1,6 +1,27 @@
 ![Header](header robotic.png)
 
 
+<div style="display: flex;">
+  <div style="width: 25%; padding-right: 20px;">
+    ### Navigation  
+    - Home  
+    - About  
+    - Contact  
+  </div>
+  <div style="width: 75%;">
+    ## Home  
+    Welcome to the homepage.
+
+    ## About  
+    This section is about the project.
+
+    ## Contact  
+    Reach out via email or GitHub.
+  </div>
+</div>
+
+
+
 **Web de recomendaciones y más**
 
 
