@@ -25,4 +25,8 @@ En este repositorio web puedes encontrar sugerencias de mejores prácticas para 
 
 ---
 
-Informacion recuperada del repositorio oficial de Robocup Junior Onstage https://robocup-junior.github.io/ y fuentes propias de Robocup Junior Panamá.
+Informacion recuperada del repositorio oficial de Robocup Junior Onstage <a href="ttps://robocup-junior.github.io">robocup-junior.github.io</a>  y fuentes propias de Robocup Junior Panamá.
+
+
+
+Desarrollado por: Luz Séptimo
