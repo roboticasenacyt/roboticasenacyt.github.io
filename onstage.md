@@ -49,10 +49,6 @@ Al decidir qué características mostrar, piensa en:
 - Tu Mejor Trabajo: Elige características de las que estés más orgulloso.
 - Lo que quieres destacar: Elige características que quieras mostrar en tu actuación.
 
-[![Mira este video](https://img.youtube.com/vi/ofRslDP51mY/maxresdefault.jpg)](https://youtu.be/ofRslDP51mY)
-
-### [Video de Sugerencia](https://youtu.be/ofRslDP51mY)
-
 **Presentando tus Características**
 
 Destácalas mostrando y explicándolas en tu video de demostración técnica, póster y entrevista. Esto hace que tu actuación se destaque y ayuda al público y a los jueces a buscar tus características en acción.
@@ -66,6 +62,9 @@ No te enfoques en cosas como:
 - Partes básicas (como "ruedas omni" o "lego")
 - Métodos de comunicación (como "Bluetooth")
 - Solo usar términos generales sin una explicación detallada de la función / tecnología (como "reconocimiento de visión")
+
+### [Video de sugerencias para competidores de Onstage](https://youtu.be/ofRslDP51mY)
+[![Mira este video](https://img.youtube.com/vi/ofRslDP51mY/maxresdefault.jpg)](https://youtu.be/ofRslDP51mY)
 
 **Conclusión**
 
